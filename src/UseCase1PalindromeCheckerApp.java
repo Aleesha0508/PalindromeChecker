@@ -6,3 +6,4 @@ public class UseCase1PalindromeCheckerApp {
         System.out.println("System Initialised Successfully");
     }
 }
+
